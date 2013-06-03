@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <ViewFlipper
+            android:layout_width="fill_parent"
+            android:layout_height="414dp"
+            android:id="@+id/viewFlipper"
+            android:layout_gravity="center_horizontal|top">
+
+        <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="141dp"
+                android:inputType="textMultiLine"
+                android:ems="10"
+                android:id="@+id/editText3"
+                android:layout_gravity="center_horizontal|top"
+                android:editable="true"
+                android:hint="HTML"
+                android:autoText="false"/>
+
+        <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="159dp"
+                android:inputType="textMultiLine"
+                android:ems="10"
+                android:id="@+id/editText"
+                android:layout_gravity="center_horizontal|top"
+                android:editable="true"
+                android:hint="CSS"/>
+
+        <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="141dp"
+                android:inputType="textMultiLine"
+                android:ems="10"
+                android:id="@+id/editText2"
+                android:layout_gravity="center_horizontal|top"
+                android:editable="true"
+                android:hint="JavaScript"/>
+
+    </ViewFlipper>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+        <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="jQuery"
+                android:id="@+id/switch1"
+                android:layout_gravity="left|center_vertical"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Run"
+                android:id="@+id/button"
+                android:layout_gravity="right|center_vertical"/>
+    </LinearLayout>
+</LinearLayout>

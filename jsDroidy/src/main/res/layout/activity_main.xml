@@ -24,7 +24,8 @@
                 android:layout_gravity="left|center_vertical"
                 android:editable="true"
                 android:hint="HTML"
-                android:autoText="false"/>
+                android:autoText="false"
+                />
 
         <EditText
                 android:layout_width="fill_parent"

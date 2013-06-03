@@ -29,6 +29,16 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="activity_output"
+                path="C:\Documents and Settings\Administrator.ESUMSROBOTICSLA\AndroidStudioProjects\jsDroidyProject\jsDroidy\src\main\res\layout\activity_output.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="altlay"
+                path="C:\Documents and Settings\Administrator.ESUMSROBOTICSLA\AndroidStudioProjects\jsDroidyProject\jsDroidy\src\main\res\layout\altlay.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="main"
                 path="C:\Documents and Settings\Administrator.ESUMSROBOTICSLA\AndroidStudioProjects\jsDroidyProject\jsDroidy\src\main\res\menu\main.xml"
                 qualifiers=""
@@ -93,11 +103,6 @@
                     <!-- API 11 theme customizations can go here. -->
                 </style>
             </file>
-            <file
-                name="activity_output"
-                path="C:\Documents and Settings\Administrator.ESUMSROBOTICSLA\AndroidStudioProjects\jsDroidyProject\jsDroidy\src\main\res\layout\activity_output.xml"
-                qualifiers=""
-                type="layout" />
         </source>
         <source path="C:\Documents and Settings\Administrator.ESUMSROBOTICSLA\AndroidStudioProjects\jsDroidyProject\jsDroidy\build\res\rs\debug" />
     </dataSet>
