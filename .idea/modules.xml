@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jsDroidy/jsDroidy.iml" filepath="$PROJECT_DIR$/jsDroidy/jsDroidy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsDroidyProject.iml" filepath="$PROJECT_DIR$/jsDroidyProject.iml" />
+    </modules>
+  </component>
+</project>
+
